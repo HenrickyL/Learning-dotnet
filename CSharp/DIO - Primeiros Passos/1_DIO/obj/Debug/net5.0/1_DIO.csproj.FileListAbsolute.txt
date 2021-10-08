@@ -1,0 +1,16 @@
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/bin/Debug/net5.0/1_DIO
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/bin/Debug/net5.0/1_DIO.deps.json
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/bin/Debug/net5.0/1_DIO.runtimeconfig.json
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/bin/Debug/net5.0/1_DIO.runtimeconfig.dev.json
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/bin/Debug/net5.0/1_DIO.dll
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/bin/Debug/net5.0/ref/1_DIO.dll
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/bin/Debug/net5.0/1_DIO.pdb
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.csprojAssemblyReference.cache
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.AssemblyInfoInputs.cache
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.AssemblyInfo.cs
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.csproj.CoreCompileInputs.cache
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.dll
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/ref/1_DIO.dll
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.pdb
+/home/henricky/Documentos/Learning .Net/DIO - Primeiros Passos/1_DIO/obj/Debug/net5.0/1_DIO.genruntimeconfig.cache
