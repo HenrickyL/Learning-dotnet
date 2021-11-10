@@ -1,0 +1,16 @@
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/bin/Debug/net5.0/Pratica
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/bin/Debug/net5.0/Pratica.deps.json
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/bin/Debug/net5.0/Pratica.runtimeconfig.json
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/bin/Debug/net5.0/Pratica.runtimeconfig.dev.json
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/bin/Debug/net5.0/Pratica.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/bin/Debug/net5.0/ref/Pratica.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/bin/Debug/net5.0/Pratica.pdb
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.csprojAssemblyReference.cache
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.AssemblyInfoInputs.cache
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.AssemblyInfo.cs
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.csproj.CoreCompileInputs.cache
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/ref/Pratica.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.pdb
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/obj/Debug/net5.0/Pratica.genruntimeconfig.cache

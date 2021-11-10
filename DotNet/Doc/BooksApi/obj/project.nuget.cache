@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "9D6JjMsL7L8mNAD1xl48dkOWMfBNdyuEfNtt5fobUQc6E53bHDzqU7tJ3aI2MKupQxiAbXcGcPeW1XuOIa0Dkw==",
+  "success": true,
+  "projectFilePath": "/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Doc/BooksApi/BooksApi.csproj",
+  "expectedPackageFiles": [
+    "/home/henricky/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
+    "/home/henricky/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.11/microsoft.aspnetcore.jsonpatch.5.0.11.nupkg.sha512",
+    "/home/henricky/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.11/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.11.nupkg.sha512",
+    "/home/henricky/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/henricky/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/henricky/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/home/henricky/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/henricky/.nuget/packages/mongodb.bson/2.13.2/mongodb.bson.2.13.2.nupkg.sha512",
+    "/home/henricky/.nuget/packages/mongodb.driver/2.13.2/mongodb.driver.2.13.2.nupkg.sha512",
+    "/home/henricky/.nuget/packages/mongodb.driver.core/2.13.2/mongodb.driver.core.2.13.2.nupkg.sha512",
+    "/home/henricky/.nuget/packages/mongodb.libmongocrypt/1.2.2/mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "/home/henricky/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/henricky/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "/home/henricky/.nuget/packages/sharpcompress/0.23.0/sharpcompress.0.23.0.nupkg.sha512",
+    "/home/henricky/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/henricky/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/henricky/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/henricky/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/henricky/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/home/henricky/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/home/henricky/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/home/henricky/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

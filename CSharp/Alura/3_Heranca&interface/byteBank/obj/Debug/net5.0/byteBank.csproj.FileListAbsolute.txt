@@ -1,0 +1,16 @@
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/bin/Debug/net5.0/byteBank
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/bin/Debug/net5.0/byteBank.deps.json
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/bin/Debug/net5.0/byteBank.runtimeconfig.json
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/bin/Debug/net5.0/byteBank.runtimeconfig.dev.json
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/bin/Debug/net5.0/byteBank.dll
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/bin/Debug/net5.0/ref/byteBank.dll
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/bin/Debug/net5.0/byteBank.pdb
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.csprojAssemblyReference.cache
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.AssemblyInfoInputs.cache
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.AssemblyInfo.cs
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.csproj.CoreCompileInputs.cache
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.dll
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/ref/byteBank.dll
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.pdb
+/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/obj/Debug/net5.0/byteBank.genruntimeconfig.cache

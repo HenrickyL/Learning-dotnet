@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpzuPVORfQwedxr5dZ9+VEw1aMCQMmRCq6Ua5Sbw7xvAsZhRLSnZ7AwlmbwJii4+y/afnMQ0e4TWecPaNXwoQA==",
+  "success": true,
+  "projectFilePath": "/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/Base/Base.csproj",
+  "expectedPackageFiles": [
+    "/home/henricky/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/bin/Debug/net5.0/EditorHtml
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/bin/Debug/net5.0/EditorHtml.deps.json
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/bin/Debug/net5.0/EditorHtml.runtimeconfig.json
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/bin/Debug/net5.0/EditorHtml.runtimeconfig.dev.json
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/bin/Debug/net5.0/EditorHtml.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/bin/Debug/net5.0/ref/EditorHtml.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/bin/Debug/net5.0/EditorHtml.pdb
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.csprojAssemblyReference.cache
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.AssemblyInfoInputs.cache
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.AssemblyInfo.cs
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.csproj.CoreCompileInputs.cache
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/ref/EditorHtml.dll
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.pdb
+/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/DotNet/Balta/EditorHtml/obj/Debug/net5.0/EditorHtml.genruntimeconfig.cache

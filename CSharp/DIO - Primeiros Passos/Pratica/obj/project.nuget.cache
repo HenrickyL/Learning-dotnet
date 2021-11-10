@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4sjnlTzyk7gtSvx0E1xWQOG5iZ/+avxdRrqYvrPjovVFgkNVe/yCPZCjkIx+nO0CSgDy1tzFRbacRYoMkN3+wA==",
+  "success": true,
+  "projectFilePath": "/run/media/henricky/Backup/Ciência da Computação (2.2)/LEARNING/Learning .Net/Learning-dotnet/CSharp/DIO - Primeiros Passos/Pratica/Pratica.csproj",
+  "expectedPackageFiles": [
+    "/home/henricky/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aJG+uYVH8ZVd9nxUhhXD263MnQTb3mhI6Hyatq1oSFeCZCb4sPg3fGFhdpew8qwhct9IfPhkt1Dpeq1jYdkcw==",
+  "success": true,
+  "projectFilePath": "/home/henricky/Documentos/Learning .Net/Learning-dotnet/CSharp/Alura/3_Heranca&interface/byteBank/byteBank.csproj",
+  "expectedPackageFiles": [
+    "/home/henricky/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
